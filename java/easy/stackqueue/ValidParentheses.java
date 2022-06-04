@@ -9,7 +9,7 @@
  *      Open brackets must be closed by the same type of brackets.
  *      Open brackets must be closed in the correct order.
  */
-package java.easy.stack.queue;
+package java.easy.stackqueue;
 
 public class ValidParentheses {
     // Stack Implementation
