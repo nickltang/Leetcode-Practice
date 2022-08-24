@@ -5,7 +5,7 @@
  * 
  * Given a string s, find the length of the longest substring without repeating characters.
  */
-package java.medium.slidingwindow;
+package java.medium.strings;
 import java.util.*;
 
 public class LongestSubWORepeat {
